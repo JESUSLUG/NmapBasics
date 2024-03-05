@@ -1,4 +1,3 @@
-
 # Comandos Básicos de Nmap
 
 ## 1. Escaneo de Puertos TCP (-sS)
@@ -40,4 +39,3 @@
 ## 10. Escaneo de Intensidad Insana (-T5)
    Comando: `nmap -T5 <objetivo>`
    Propósito: Realiza un escaneo de intensidad máxima (insana), aumentando la velocidad al máximo, pero potencialmente más intrusivo.
-```
