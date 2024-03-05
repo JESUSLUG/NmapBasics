@@ -1,5 +1,4 @@
 
-```markdown
 # Comandos Básicos de Nmap
 
 ## 1. Escaneo de Puertos TCP (-sS)
