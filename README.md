@@ -71,3 +71,10 @@
    nmap -T5 <objetivo>
    ```
    Propósito: Realiza un escaneo de intensidad máxima (insana), aumentando la velocidad al máximo, pero potencialmente más intrusivo.
+
+   ## 11. Escaneo de Vulnerabilidades Básico (-sV --script vuln)
+   Comando: 
+   ```
+   nmap -sV --script vuln <objetivo>
+   ```
+   Propósito: Realiza un escaneo de vulnerabilidades básico utilizando scripts de detección de vulnerabilidades disponibles en la base de datos de scripts de Nmap. Identifica posibles vulnerabilidades en los servicios en ejecución en el objetivo.
