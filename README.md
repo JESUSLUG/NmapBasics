@@ -1,7 +1,7 @@
 # Comandos Básicos de Nmap
 
 ## 1. Escaneo de Puertos TCP (-sS)
-   Comando: `nmap -sS <objetivo>`
+   Comando: ```nmap -sS <objetivo>```
    Propósito: Escaneo rápido y menos intrusivo utilizando un escaneo de tipo SYN para determinar qué puertos están abiertos.
 
 ## 2. Escaneo de Puertos UDP (-sU)
